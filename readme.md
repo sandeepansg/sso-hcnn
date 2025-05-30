@@ -1,4 +1,4 @@
-# Enhanced Chaos-Hopfield-SSO Cryptographic System
+# SSO-HCNN Cryptographic Framework
 
 ## Overview
 
